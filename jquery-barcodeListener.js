@@ -14,9 +14,9 @@
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the new BSD license.
  *
- * @author      David Zeller <me@zellerda.com>
+ * @author      DragonOfMercy <dragonofmercy@gmail.com>
  * @license     http://www.opensource.org/licenses/BSD-3-Clause New BSD license
- * @version     1.0
+ * @version     1.1
  */
 (function($){
 
